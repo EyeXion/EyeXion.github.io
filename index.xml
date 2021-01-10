@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EyeXion</title>
-    <link>http://example.org/</link>
+    <link>https://eyexion.github.io/</link>
     <description>Recent content on EyeXion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 20:11:53 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 20:11:53 +0100</lastBuildDate><atom:link href="https://eyexion.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/about/me/</link>
+      <link>https://eyexion.github.io/about/me/</link>
       <pubDate>Sat, 09 Jan 2021 20:11:53 +0100</pubDate>
       
-      <guid>http://example.org/about/me/</guid>
+      <guid>https://eyexion.github.io/about/me/</guid>
       <description>Hello ! My name is Elies Tali, aka EyeXion, and this is my site ! Welcome ✨! Let&#39;s start with the basics. I am a 21 years old french Software &amp; Network engineering student at the National Institute of Appilied Sciences of Toulouse (INSA). I love coding and my favorite fields are cybersecurity and video game developement. My dream would be to be able to work on projects that combine both fields.</description>
     </item>
     
     <item>
       <title>Biparite matching for job distribution in Ocaml</title>
-      <link>http://example.org/posts/maxflow/</link>
+      <link>https://eyexion.github.io/posts/maxflow/</link>
       <pubDate>Thu, 07 Jan 2021 11:52:21 +0100</pubDate>
       
-      <guid>http://example.org/posts/maxflow/</guid>
+      <guid>https://eyexion.github.io/posts/maxflow/</guid>
       <description>With my lab partner we coded a job distribution algorith in Ocaml and to be honest I think it could actually be useful so I&amp;rsquo;m sharing it here !</description>
     </item>
     
     <item>
       <title>Chat Desktop Application in Java</title>
-      <link>http://example.org/posts/chatapp/</link>
+      <link>https://eyexion.github.io/posts/chatapp/</link>
       <pubDate>Sat, 02 Jan 2021 00:15:21 +0100</pubDate>
       
-      <guid>http://example.org/posts/chatapp/</guid>
+      <guid>https://eyexion.github.io/posts/chatapp/</guid>
       <description>I coded a distibuted chat app in Java for one of my classes with a friend. I thought it would be cool to present our work here !</description>
     </item>
     
     <item>
       <title>Web Game project in TypeScript</title>
-      <link>http://example.org/posts/phasergame/</link>
+      <link>https://eyexion.github.io/posts/phasergame/</link>
       <pubDate>Sat, 10 Oct 2020 23:39:10 +0100</pubDate>
       
-      <guid>http://example.org/posts/phasergame/</guid>
+      <guid>https://eyexion.github.io/posts/phasergame/</guid>
       <description>During the summer holidays, members of the IT Club of INSA Toulouse had the idea to create a new website for the club to attract new members. One of the main ideas was to organize a contest among students with a game we would create. Check it out !</description>
     </item>
     
     <item>
       <title>Sailboat management system in C</title>
-      <link>http://example.org/posts/sailboat/</link>
+      <link>https://eyexion.github.io/posts/sailboat/</link>
       <pubDate>Fri, 02 Oct 2020 14:55:09 +0100</pubDate>
       
-      <guid>http://example.org/posts/sailboat/</guid>
+      <guid>https://eyexion.github.io/posts/sailboat/</guid>
       <description>With 3 of my classmates, we coded a sailboat management system in C on a STM32 µcontroller. I really liked working on that project, maybe I will want to go deeper in this field ?</description>
     </item>
     
     <item>
       <title>Riot Summonner Info app in Python</title>
-      <link>http://example.org/posts/riotapp/</link>
+      <link>https://eyexion.github.io/posts/riotapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/riotapp/</guid>
+      <guid>https://eyexion.github.io/posts/riotapp/</guid>
       <description>I coded a small desktop app to get the info about a League of Legends player in Python.</description>
     </item>
     
