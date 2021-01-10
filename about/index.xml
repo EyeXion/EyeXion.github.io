@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on EyeXion</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in Abouts on EyeXion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 20:11:53 +0100</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/about/me/</link>
+      <pubDate>Sat, 09 Jan 2021 20:11:53 +0100</pubDate>
+      
+      <guid>http://example.org/about/me/</guid>
+      <description>Hello ! My name is Elies Tali, aka EyeXion, and this is my site ! Welcome ✨! Let&#39;s start with the basics. I am a 21 years old french Software &amp; Network engineering student at the National Institute of Appilied Sciences of Toulouse (INSA). I love coding and my favorite fields are cybersecurity and video game developement. My dream would be to be able to work on projects that combine both fields.</description>
+    </item>
+    
+  </channel>
+</rss>
